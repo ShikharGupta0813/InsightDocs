@@ -1,0 +1,14 @@
+venv
+node_modules
+.idea/
+__pycache__/
+.env
+pdf_files
+MLmodel/project_convex/llama.cpp/
+MLmodel/project_convex/models/
+MLmodel/project_convex/.idea
+MLmodel/project_convex/__pycache__
+qdrant_storage/
+MLmodel/project_convex/qdrant_storage/
+.env.local
+.vscode/*
